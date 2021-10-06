@@ -1,8 +1,8 @@
 {
-  "name": "illumitypefresh",
+  "name": "andyelectronstarter",
   "version": "0.1.0",
-  "author": "Svensk Skrivtolkning",
-  "description": "Illumitype",
+  "author": "Anders Gustafsson",
+  "description": "andyelectronstarter",
   "homepage": ".",
   "main": "build/electron/main.js",
   "private": true,
