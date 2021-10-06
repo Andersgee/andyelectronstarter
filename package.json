@@ -42,6 +42,9 @@
     ],
     "directories": {
       "buildResources": "assets"
+    },
+    "win": {
+      "target": "squirrel"
     }
   },
   "eslintConfig": {
@@ -64,6 +67,7 @@
     "cross-env": "^7.0.3",
     "electron": "^15.1.1",
     "electron-builder": "^22.11.7",
+    "electron-builder-squirrel-windows": "^22.14.4",
     "wait-on": "^6.0.0"
   }
 }
