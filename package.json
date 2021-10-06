@@ -43,8 +43,12 @@
     "directories": {
       "buildResources": "assets"
     },
+    "mac": {
+      "icon": "build/icon.icns"
+    },
     "win": {
-      "target": "squirrel"
+      "target": "squirrel",
+      "icon": "build/icon.ico"
     },
     "squirrelWindows": {
       "iconUrl": "https://github.com/Andersgee/andyelectronstarter/blob/main/public/icon.ico"
