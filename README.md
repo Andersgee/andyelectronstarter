@@ -19,3 +19,7 @@ Run electron in development mode (will reload on edits). (also runs website in d
 ### `yarn electron:build`
 
 Build production electron app (`dist` folder). (also builds production website)
+
+### References
+
+for build section of package.json: [electron-builder configuration](https://www.electron.build/configuration/configuration)

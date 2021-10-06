@@ -45,6 +45,12 @@
     },
     "win": {
       "target": "squirrel"
+    },
+    "squirrelWindows": {
+      "iconUrl": "https://github.com/Andersgee/andyelectronstarter/blob/main/public/icon.ico"
+    },
+    "extraMetadata": {
+      "homepage": "https://github.com/andersgee/andyelectronstarter"
     }
   },
   "eslintConfig": {
